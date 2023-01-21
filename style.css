@@ -1,0 +1,29 @@
+body{
+    background-color: #EAF6F6;
+}
+hr{
+    border-style: none;
+    border-top-style: dashed;
+border-color:royalblue;
+border-width: 2px;
+border: 5%;
+}
+
+img:hover{
+background-color: red;
+
+}
+input:hover{
+    background-color: greenyellow;
+}
+
+
+h1{
+    color:  rgb(4, 6, 117);
+    background-color: rgb(255, 204, 180);
+
+}
+h3{
+    color:  rgb(4, 6, 117);
+    background-color:  rgb(255, 204, 180);
+}
